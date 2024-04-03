@@ -4,6 +4,7 @@ Prerequisites
 * Administrative privileges on the server.
 * Docker installed on the server
 * VPN configuration file, which will be provided privately.
+* resolvconf should be installed
 
 This document provides guidelines on how to set up a network configuration between the Kondukto client  and your network using WireGuard VPN(running on Docker container).
 
